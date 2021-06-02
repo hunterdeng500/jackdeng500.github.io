@@ -18,16 +18,16 @@
 <p align="right">Valar  Morghulis</p>]]></content>
   </entry>
   <entry>
-    <title>大三寒假随笔</title>
-    <url>/2021/02/28/2%E5%A4%A7%E4%B8%89%E5%AF%92%E5%81%87%E9%9A%8F%E7%AC%94/</url>
-    <content><![CDATA[<p>有错过的，也有收获的</p>
+    <title>关于 Onenote图片粘贴的错误</title>
+    <url>/2021/03/21/3%E5%85%B3%E4%BA%8EOnenote%E6%97%A0%E6%B3%95%E4%BB%8E%E7%B2%98%E8%B4%B4%E6%9D%BF%E5%A4%8D%E5%88%B6%E5%86%85%E5%AE%B9%E7%9A%84%E9%94%99%E8%AF%AF/</url>
+    <content><![CDATA[<p>报错信息: 无法从你的粘贴板复制内容 </p>
 <a id="more"></a>
 
-<p>错过了最好的春招和实习的准备机会，没有准备算法和面经</p>
-<p>收拾收拾了新的屋子，安置好了热水器，洗衣机，阳台的晾衣架。吸油烟机和空调还没装，不过暂时也不需要。已经挺有家的味道了</p>
-<p>深入学了一些python和qt图形界面。开始了解java</p>
-<p>荒野大镖客！亚瑟·摩根！</p>
-<p>看了轻音少女，冰菓，clannad三部番，感谢能遇到cl</p>
+<p>目前有效的解决办法:</p>
+<p>​    win+V键调出剪贴板，选择清除所有内容，之后就能正常粘贴</p>
+<ul>
+<li><img src="https://raw.githubusercontent.com/JackDeng500/SourceForOther/master/%E6%B8%85%E9%99%A4%E5%89%AA%E5%88%87%E6%9D%BF.png" alt="avatar" style="zoom:50%;" /></li>
+</ul>
 ]]></content>
   </entry>
   <entry>
@@ -35,6 +35,7 @@
     <url>/2021/04/06/5%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B4%A0%E5%85%BB%E4%B8%80/</url>
     <content><![CDATA[<blockquote>
 <p>计算机素养，拓展知识面</p>
+<p>目前内容：中文文案排版，MarkDown 语法，认识 Linux</p>
 </blockquote>
 <a id="more"></a>
 
@@ -58,22 +59,42 @@
 <hr>
 <h2 id="感谢"><a href="#感谢" class="headerlink" title="感谢"></a>感谢</h2><p><a href="https://hustport.com/d/228">开发素养资料</a></p>
 <p>HUSTPORT</p>
-<br/>
-
-<p><strong>内容同步到博客：</strong><br><a href="https://blog.jackdeng500.com/">Deng Hongcheng’s Blog</a><br><a href="https://blog.csdn.net/qq_24868995">JackDeng500 的 CSDN 博客</a></p>
 ]]></content>
   </entry>
   <entry>
-    <title>关于 Onenote图片粘贴的错误</title>
-    <url>/2021/03/21/3%E5%85%B3%E4%BA%8EOnenote%E6%97%A0%E6%B3%95%E4%BB%8E%E7%B2%98%E8%B4%B4%E6%9D%BF%E5%A4%8D%E5%88%B6%E5%86%85%E5%AE%B9%E7%9A%84%E9%94%99%E8%AF%AF/</url>
-    <content><![CDATA[<p>报错信息: 无法从你的粘贴板复制内容 </p>
+    <title>大三寒假随笔</title>
+    <url>/2021/02/28/2%E5%A4%A7%E4%B8%89%E5%AF%92%E5%81%87%E9%9A%8F%E7%AC%94/</url>
+    <content><![CDATA[<p>有错过的，也有收获的</p>
 <a id="more"></a>
 
-<p>目前有效的解决办法:</p>
-<p>​    win+V键调出剪贴板，选择清除所有内容，之后就能正常粘贴</p>
-<ul>
-<li><img src="https://raw.githubusercontent.com/JackDeng500/SourceForOther/master/%E6%B8%85%E9%99%A4%E5%89%AA%E5%88%87%E6%9D%BF.png" alt="avatar" style="zoom:50%;" /></li>
-</ul>
+<p>错过了最好的春招和实习的准备机会，没有准备算法和面经</p>
+<p>收拾收拾了新的屋子，安置好了热水器，洗衣机，阳台的晾衣架。吸油烟机和空调还没装，不过暂时也不需要。已经挺有家的味道了</p>
+<p>深入学了一些python和qt图形界面。开始了解java</p>
+<p>荒野大镖客！亚瑟·摩根！</p>
+<p>看了轻音少女，冰菓，clannad三部番，感谢能遇到cl</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>质疑，预调研</title>
+    <url>/2021/05/30/8%E8%B4%A8%E7%96%91%E6%96%B9%E6%B3%95%E8%AE%BA/</url>
+    <content><![CDATA[<p>质疑，预调研 —— 我的事物处理方法论</p>
+<a id="more"></a>
+
+<p>自己的一点思考</p>
+<h4 id="Start"><a href="#Start" class="headerlink" title="Start"></a>Start</h4><p>无论是高考做完一道题，或者是提出一个方案，我常常质疑并验证其正确性</p>
+<p>去知乎，Google搜最好的学习某件事的方式，做题思考是否有最优解法，本质上是想偷懒，却发现对学习和生活有许多帮助</p>
+<h4 id="But"><a href="#But" class="headerlink" title="But"></a>But</h4><p>质疑并验证的过程很耗费时间</p>
+<p>常常忽视完成目的的主体性，结果导向同样重要</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>100-000LinesOfCode</title>
+    <url>/2021/05/04/6%E5%8D%81%E4%B8%87%E9%AB%98%E6%95%88%E4%BB%A3%E7%A0%81%E4%BB%93%E5%BA%93/</url>
+    <content><![CDATA[<p>最近增加了一个GitHub仓库，致力于每日增加代码量，最后在毕业前完成十万的高质量代码</p>
+<a id="more"></a>
+
+<p>（算法，数据结构，项目的代码）</p>
+<p>项目是公开的，如果你也感兴趣：<br><a href="https://github.com/JackDeng500/100-000LinesOfCode">https://github.com/JackDeng500/100-000LinesOfCode</a></p>
 ]]></content>
   </entry>
   <entry>
@@ -131,29 +152,6 @@
 <a id="more"></a>
 
 <p><a href="https://github.com/JackDeng500/MiniVPN">项目地址</a></p>
-]]></content>
-  </entry>
-  <entry>
-    <title>100-000LinesOfCode</title>
-    <url>/2021/05/04/6%E5%8D%81%E4%B8%87%E9%AB%98%E6%95%88%E4%BB%A3%E7%A0%81%E4%BB%93%E5%BA%93/</url>
-    <content><![CDATA[<p>最近增加了一个GitHub仓库，致力于每日增加代码量，最后在毕业前完成十万的高质量代码</p>
-<a id="more"></a>
-
-<p>（算法，数据结构，项目的代码）</p>
-<p>项目是公开的，如果你也感兴趣：<br><a href="https://github.com/JackDeng500/100-000LinesOfCode">https://github.com/JackDeng500/100-000LinesOfCode</a></p>
-]]></content>
-  </entry>
-  <entry>
-    <title>质疑，预调研</title>
-    <url>/2021/05/30/8%E8%B4%A8%E7%96%91%E6%96%B9%E6%B3%95%E8%AE%BA/</url>
-    <content><![CDATA[<p>质疑，预调研 —— 我的事物处理方法论</p>
-<a id="more"></a>
-
-<p>有利有弊</p>
-<h4 id="Start"><a href="#Start" class="headerlink" title="Start"></a>Start</h4><p>无论是高考做完一道题，或者是提出一个方案，我常常质疑并验证其正确性</p>
-<p>去知乎，Google搜最好的学习某件事的方式，做题思考是否有最优解法，本质上是想偷懒，却发现对学习和生活有许多帮助</p>
-<h4 id="But"><a href="#But" class="headerlink" title="But"></a>But</h4><p>质疑并验证的过程很耗费时间</p>
-<p>常常忽视完成目的的主体性，结果导向同样重要</p>
 ]]></content>
   </entry>
 </search>
